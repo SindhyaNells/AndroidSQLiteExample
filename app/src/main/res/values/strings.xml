@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Products Database</string>
+
+    <string name="new_item">New Item</string>
+    <string name="search_item">Search Item</string>
+
+    <string name="new_item_activity">Add New Item</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_desc">Item Description</string>
+    <string name="item_price">Item Price</string>
+    <string name="item_review">Item Review</string>
+    <string name="add">Add</string>
+    <string name="add_msg">Item added successfully</string>
+
+    <string name="search_item_activity">Search Item</string>
+    <string name="search_hint">Search</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
